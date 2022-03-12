@@ -1,0 +1,7 @@
+C:\Users\gusta\source\repos\funcao_receber-valor-inteiro\funcao_receber-valor-inteiro\obj\Debug\funcao_receber-valor-inteiro.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\funcao_receber-valor-inteiro\funcao_receber-valor-inteiro\obj\Debug\funcao_receber-valor-inteiro.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\funcao_receber-valor-inteiro\funcao_receber-valor-inteiro\bin\Debug\funcao_receber-valor-inteiro.exe.config
+C:\Users\gusta\source\repos\funcao_receber-valor-inteiro\funcao_receber-valor-inteiro\bin\Debug\funcao_receber-valor-inteiro.exe
+C:\Users\gusta\source\repos\funcao_receber-valor-inteiro\funcao_receber-valor-inteiro\bin\Debug\funcao_receber-valor-inteiro.pdb
+C:\Users\gusta\source\repos\funcao_receber-valor-inteiro\funcao_receber-valor-inteiro\obj\Debug\funcao_receber-valor-inteiro.exe
+C:\Users\gusta\source\repos\funcao_receber-valor-inteiro\funcao_receber-valor-inteiro\obj\Debug\funcao_receber-valor-inteiro.pdb
